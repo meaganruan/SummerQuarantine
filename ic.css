@@ -1,0 +1,76 @@
+header > section > form#login{
+	float: right;
+	padding-bottom: 1.5em;
+	padding-right: 1em;
+}
+h2{
+	color: darkOrange;
+}
+
+figure.icecream{
+	width: 37%;
+	border-radius: 2em;
+	padding: 1.5em;
+	float: left;
+}
+
+figure > img{
+	padding-left: 6.5em;
+	padding-bottom: 2em;
+}
+
+figcaption{
+	text-align: center;
+	padding: auto;
+	color: darkOrange;
+}
+
+footer{
+	margin-top: 5em;
+}
+
+legend{
+	color: purple;
+}
+
+fieldset{
+	line-height: 3em;
+}
+
+fieldset#cards > label{
+	padding: auto;
+}
+
+fieldset.paypal{
+	width: 40%;
+}
+
+input.submit{
+	color: purple;
+	background-color: plum;
+	font-size: 20px;
+	line-height: 2em;
+	border-radius: 1.5em;
+	margin: 2em;
+}
+
+input.submit:hover{
+	background-color: darkOrange;
+}
+
+h2#verification{
+	text-align: center;
+	padding-bottom: 3em;
+	border-bottom: 3px double purple;
+}
+
+div#verifpage > img {
+	width: 50%;
+	padding-left: 17em;
+	margin-bottom: 10em;
+}
+
+
+input:invalid {
+  background-color: salmon;
+}
